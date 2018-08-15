@@ -1,0 +1,1 @@
+For information about the project, please visit the http://www.camera-sdk.com/p_235-onvif-ip-camera-manager-client-onvif.html page!
